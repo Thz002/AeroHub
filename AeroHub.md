@@ -212,7 +212,7 @@ aero-hub/
 ## 🔗 Links do Projeto
 
 - 🔧 [Simulação no Tinkercad](https://www.tinkercad.com/things/9YEymLnhGF7-aerohubv1?sharecode=emhYj8ox_bCAFRUfIVIQsJ4YC16IRF1TLjf8LtDwH4s)
-- 📄 [Relatório Técnico (Download)](./relatorio/Relatorio_AeroHub_Grupo7.docx)
+- 📄 [Relatório Técnico (Download)](https://github.com/Thz002/AeroHub/blob/main/Relatorio_AeroHub_Grupo7%20(1).docx)
 
 ---
 
