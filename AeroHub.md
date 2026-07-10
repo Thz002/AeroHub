@@ -203,9 +203,9 @@ aero-hub/
 
 | Nome | Módulo |
 |---|---|
-| [Nome 1] | Sistemas Inteligentes |
-| [Nome 2] | Sustentabilidade |
-| [Nome 3] | Serious Games |
+| [Thiago Duarte Machado] | Sistemas Inteligentes |
+| [Samuel Bernardes de Castro] | Sustentabilidade |
+| [Caio Giovanni Roberto Damasceno] | Serious Games |
 
 ---
 
