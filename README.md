@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Visão Geral
+## Visão Geral
 
 O **Aero Hub** é um simulador de voo embarcado desenvolvido com Arduino Uno, inspirado no treinamento técnico de pilotos da aviação civil. O projeto integra três módulos temáticos em um único sistema funcional, onde cada módulo representa um dos temas transversais do trabalho interdisciplinar.
 
@@ -12,7 +12,7 @@ O piloto controla a aeronave via potenciômetro (manche), gerencia a velocidade 
 
 ---
 
-## 🧩 Arquitetura do Sistema
+## Arquitetura do Sistema
 
 ```
                         ┌─────────────────────────────────┐
@@ -28,7 +28,7 @@ O loop principal roda **sem nenhum `delay()` bloqueante** — todo o controle de
 
 ---
 
-## ⚙️ Módulos Técnicos
+## Módulos Técnicos
 
 ### Módulo 1 — Sistemas Inteligentes: Computador de Bordo
 
@@ -124,7 +124,7 @@ O piloto começa com **1000 pontos de reputação**. A pontuação acumula ao lo
 
 ---
 
-## 🛠️ Hardware
+## Hardware
 
 | Componente | Quantidade | Função |
 |---|---|---|
@@ -140,7 +140,7 @@ O piloto começa com **1000 pontos de reputação**. A pontuação acumula ao lo
 
 ---
 
-## 📋 Pinagem
+## Pinagem
 
 | Componente | Pino Arduino |
 |---|---|
@@ -156,7 +156,7 @@ O piloto começa com **1000 pontos de reputação**. A pontuação acumula ao lo
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 aero-hub/
@@ -171,7 +171,7 @@ aero-hub/
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Abra o arquivo `codigo/aerohub.ino` na Arduino IDE
 2. Selecione a placa **Arduino Uno** e a porta correta
@@ -183,7 +183,7 @@ aero-hub/
 
 ---
 
-## 📊 Requisitos Técnicos Atendidos
+## Requisitos Técnicos Atendidos
 
 | Requisito | Implementação |
 |---|---|
@@ -199,7 +199,7 @@ aero-hub/
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 | Nome | Módulo |
 |---|---|
@@ -209,19 +209,19 @@ aero-hub/
 
 ---
 
-## 🔗 Links do Projeto
+## Links do Projeto
 
 - 🔧 [Simulação no Tinkercad](https://www.tinkercad.com/things/9YEymLnhGF7-aerohubv1?sharecode=emhYj8ox_bCAFRUfIVIQsJ4YC16IRF1TLjf8LtDwH4s)
 - 📄 [Relatório Técnico (Download)](https://github.com/Thz002/AeroHub/raw/main/Relatorio_AeroHub_Grupo7%20(1).docx)
 
 ---
 
-## 🎥 Vídeo de Apresentação
+## Vídeo de Apresentação
 [Assistir no YouTube](https://youtu.be/Cbyn_gmVWpA)
 
 ---
 
-## 🏫 Informações Acadêmicas
+## Informações Acadêmicas
 
 - **Instituição:** PUC Minas
 - **Curso:** Ciência da Computação
