@@ -1,4 +1,4 @@
-# ✈️ Aero Hub — Simulador de Voo & Treino de Pilotos
+# Aero Hub — Simulador de Voo & Treino de Pilotos
 
 > Projeto Interdisciplinar — PUC Minas | 1º Período — Ciência da Computação | 2026
 
